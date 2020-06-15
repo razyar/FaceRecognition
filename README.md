@@ -1,4 +1,4 @@
-![Logo](razyar.jpg)
+![Logo](razyar.png)
 # FaceRecognition
 Face recognition using python 
 

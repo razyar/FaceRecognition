@@ -1,7 +1,7 @@
 # FaceRecognition
 Face recognition using python 
 
-##requirements: 
+## Requirements: 
 ```bash
 pip install opencv-python
 ```

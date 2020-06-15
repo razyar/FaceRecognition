@@ -1,8 +1,10 @@
 # FaceRecognition
 Face recognition using python 
 
-` requirements: `
-    cv2
+##requirements: 
+```bash
+pip install opencv-python
+```
     
 
 dont change haarcascade_frontalface_default.xml name or if you changed go and change name in FaceRecognition.py and FaceRecognition_cv3.py:
@@ -12,7 +14,7 @@ imagePath = sys.argv[1]
 cascPath = "haarcascade_frontalface_default.xml" #change this to new name
 ```
 
-my website: (razyar saeedian)[https://khoderazyar.ir]
+my website: [razyar saeedian](https://khoderazyar.ir)
 
 
 

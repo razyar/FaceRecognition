@@ -22,7 +22,7 @@ imagePath = sys.argv[1]
 cascPath = "haarcascade_frontalface_default.xml" #change this to new name
 ```
 
-my website: [razyar saeedian](https://khoderazyar.ir)
+- my website: [razyar saeedian](https://khoderazyar.ir)
 
 
 
